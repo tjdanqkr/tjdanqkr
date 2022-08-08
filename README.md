@@ -1,4 +1,4 @@
-### Hi there 👋
+### tjdanqkr's github
 
 <!--
 **tjdanqkr/tjdanqkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  ![tjdanqkr's GitHub stats](https://github-readme-stats.vercel.app/api?username=tjdanqkr&show_icons=true&theme=dark)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjdanqkr&layout=compact&theme=tokyonight)
+
+![tjdanqkr's GitHub stats](https://github-readme-stats.vercel.app/api?username=tjdanqkr&show_icons=true&theme=dark)
+#
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjdanqkr&layout=compact&theme=tokyonight)
+
 </div>
